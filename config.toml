@@ -1,0 +1,9 @@
+baseURL = "https://wiki.horemag.net/"
+languageCode = "bg"
+title = "Хоревики"
+theme = "primitive"
+googleAnalytics = "UA-115818-1"
+enableRobotsTXT = true
+
+[taxonomies]
+  tag = "tags"
